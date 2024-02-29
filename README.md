@@ -1,1 +1,3 @@
-This project is made using html , css and javascript
+# Clock
+
+#This project is made using html , css and javascript
